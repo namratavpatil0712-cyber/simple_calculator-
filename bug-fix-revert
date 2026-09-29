@@ -1,1 +1,29 @@
 
+PS C:\Users\HP\OneDrive\Desktop\simple_calculator> curl.exe -L https://api.github.com/repos/namratavpatil0712-cyber/simple_calculator/pulls/1
+{
+  "url": "https://api.github.com/repos/namratavpatil0712-cyber/simple_calculator/pulls/1",
+  "id": 4675863690,
+  "node_id": "PR_kwDOUyRP088AAAABFrQEig",
+  "html_url": "https://github.com/namratavpatil0712-cyber/simple_calculator/pull/1",
+  "number": 1,
+  "state": "open",
+  "title": "Fix simple interest formula typo",
+  "head": {
+    "label": "namratavpatil0712-cyber:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "name": "simple_calculator",
+      "full_name": "namratavpatil0712-cyber/simple_calculator",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "namratavpatil0712-cyber:main",
+    "ref": "main",
+    "repo": {
+      "name": "simple_calculator",
+      "full_name": "namratavpatil0712-cyber/simple_calculator",
+      "fork": true
+    }
+  }
+}
